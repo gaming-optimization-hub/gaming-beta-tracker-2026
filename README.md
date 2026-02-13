@@ -187,10 +187,13 @@ Found a new beta? [Open an issue](../../issues) or submit a pull request.
 
 ---
 
-## ⚖️ Transparency
+## ⚖️ Transparency & Affiliate Disclosure
 
-This project may include affiliate links to gaming tools in future updates (VPNs, optimization software). All affiliate partnerships will be clearly disclosed. Beta program links are always free official signups.
+**Affiliate Partnerships:** This tracker includes affiliate links to gaming tools I personally use and recommend (currently: ExitLag VPN for latency reduction during beta testing). When you use these links, I earn a small commission at no extra cost to you. This helps me maintain this free resource.
 
+**What's NOT Affiliate:** All beta program signup links go directly to official developer/publisher pages. I never earn commission from beta signups themselves.
+
+**My Promise:** I only recommend tools I actually use. If something doesn't work, I'll say so.
 ---
 
 **Last Updated:** February 12, 2026
