@@ -1,6 +1,6 @@
 # 🎮 Gaming Beta Tracker 2026
 
-> Curated list of active beta programs, playtesting opportunities, and early access signups updated weekly
+> Gaming resource hub covering PC beta programs, mobile game optimization, and performance guides for both platforms
 
 ![Last Updated](https://img.shields.io/badge/last%20updated-February%202026-brightgreen)
 ![Status](https://img.shields.io/badge/status-active-blue)
@@ -216,6 +216,42 @@ Found a new beta? [Open an issue](../../issues) or submit a pull request.
 **What's NOT Affiliate:** All beta program signup links go directly to official developer/publisher pages. I never earn commission from beta signups themselves.
 
 **My Promise:** I only recommend tools I actually use. If something doesn't work, I'll say so.
+
 ---
+
+## 📱 Mobile Gaming Optimization
+
+### eFootball 2026 - Performance & Graphics Guide
+
+**Best Settings for Smooth Gameplay:**
+- **Graphics Quality:** Standard (High causes lag on most phones)
+- **Resolution:** Auto (let game decide based on device)
+- **Frame Rate:** 60 FPS (if your phone supports it, otherwise 30 FPS)
+- **Camera Settings:** Dynamic Wide for better field vision
+- **Network:** Use WiFi over mobile data when possible
+
+**Device Requirements:**
+- Minimum: 3GB RAM, Snapdragon 660 or equivalent
+- Recommended: 6GB RAM, Snapdragon 720G or better
+- Storage: 3-4GB free space for smooth performance
+
+**Performance Tips:**
+- Close background apps before playing
+- Enable Game Mode if your phone has it (Samsung Game Launcher, Xiaomi Game Turbo, etc.)
+- Lower graphics if you experience frame drops during online matches
+- Clear cache weekly (Settings > Apps > eFootball > Clear Cache)
+
+**My Setup:**
+- Phone: [Sumsung Galaxy A05]
+- Settings: Standard graphics, 60 FPS, Dynamic Wide camera
+- Average ping: [28] on WiFi
+
+---
+
+### Coming Soon:
+- PUBG Mobile optimization guide
+- Call of Duty Mobile best settings
+- Mobile gaming phone recommendations
+- Best budget controllers for mobile
 
 **Last Updated:** February 12, 2026
