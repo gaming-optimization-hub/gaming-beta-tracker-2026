@@ -15,6 +15,40 @@
 
 ## 🔥 Active Closed Betas
 
+
+### Manor Lords - Steam Playtest (City Builder)
+- **Developer:** Slavic Magic
+- **Platform:** PC (Steam)
+- **Sign-up:** [Steam Store Page](https://store.steampowered.com/app/1363080/Manor_Lords/)
+- **Requirements:** Steam account only
+- **Access:** Click "Request Access" on Steam page
+- **Status:** ✅ Playtest Active
+- **Type:** Medieval city building and strategy
+- **Note:** Usually grants access within 24 hours
+
+---
+
+### Delta Force: Hawk Ops - Closed Beta
+- **Developer:** Team Jade (Tencent)
+- **Platform:** PC
+- **Sign-up:** [Official Website](https://www.playdeltaforce.com/)
+- **Requirements:** Email registration
+- **Beta Period:** Ongoing waves through March 2026
+- **Status:** ✅ Applications Open
+- **Type:** Tactical FPS (like Battlefield)
+- **Note:** First-person shooter with large-scale battles
+
+---
+
+### Pax Dei - Alpha Testing
+- **Developer:** Mainframe Industries  
+- **Platform:** PC
+- **Sign-up:** [Official Site](https://paxdei.com/alpha)
+- **Requirements:** Email signup, application form
+- **Status:** ✅ Accepting applications
+- **Type:** Social sandbox MMO
+- **Note:** Fantasy setting, crafting-focused
+
 ### Grand Theft Auto 6 - Rockstar Insider Program
 - **Developer:** Rockstar Games
 - **Platform:** PlayStation 5, Xbox Series X/S
