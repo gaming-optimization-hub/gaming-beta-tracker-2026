@@ -15,7 +15,6 @@
 
 ## 🔥 Active Closed Betas
 
-
 ### Manor Lords - Steam Playtest (City Builder)
 - **Developer:** Slavic Magic
 - **Platform:** PC (Steam)
@@ -48,6 +47,40 @@
 - **Status:** ✅ Accepting applications
 - **Type:** Social sandbox MMO
 - **Note:** Fantasy setting, crafting-focused
+### Manor Lords - Steam Playtest (City Builder)
+- **Developer:** Slavic Magic
+- **Platform:** PC (Steam)
+- **Sign-up:** [Steam Store Page](https://store.steampowered.com/app/1363080/Manor_Lords/)
+- **Requirements:** Steam account only
+- **Access:** Click "Request Access" on Steam page
+- **Status:** ✅ Playtest Active
+- **Type:** Medieval city building and strategy
+- **Note:** Usually grants access within 24 hours
+
+---
+
+### Delta Force: Hawk Ops - Closed Beta
+- **Developer:** Team Jade (Tencent)
+- **Platform:** PC
+- **Sign-up:** [Official Website](https://www.playdeltaforce.com/)
+- **Requirements:** Email registration
+- **Beta Period:** Ongoing waves through March 2026
+- **Status:** ✅ Applications Open
+- **Type:** Tactical FPS (like Battlefield)
+- **Note:** First-person shooter with large-scale battles
+
+---
+
+### Pax Dei - Alpha Testing
+- **Developer:** Mainframe Industries  
+- **Platform:** PC
+- **Sign-up:** [Official Site](https://paxdei.com/alpha)
+- **Requirements:** Email signup, application form
+- **Status:** ✅ Accepting applications
+- **Type:** Social sandbox MMO
+- **Note:** Fantasy setting, crafting-focused
+  
+---
 
 ### Grand Theft Auto 6 - Rockstar Insider Program
 - **Developer:** Rockstar Games
@@ -253,39 +286,4 @@ Found a new beta? [Open an issue](../../issues) or submit a pull request.
 
 ---
 
-## 📱 Mobile Gaming Optimization
-
-### eFootball 2026 - Performance & Graphics Guide
-
-**Best Settings for Smooth Gameplay:**
-- **Graphics Quality:** Standard (High causes lag on most phones)
-- **Resolution:** Auto (let game decide based on device)
-- **Frame Rate:** 60 FPS (if your phone supports it, otherwise 30 FPS)
-- **Camera Settings:** Dynamic Wide for better field vision
-- **Network:** Use WiFi over mobile data when possible
-
-**Device Requirements:**
-- Minimum: 3GB RAM, Snapdragon 660 or equivalent
-- Recommended: 6GB RAM, Snapdragon 720G or better
-- Storage: 3-4GB free space for smooth performance
-
-**Performance Tips:**
-- Close background apps before playing
-- Enable Game Mode if your phone has it (Samsung Game Launcher, Xiaomi Game Turbo, etc.)
-- Lower graphics if you experience frame drops during online matches
-- Clear cache weekly (Settings > Apps > eFootball > Clear Cache)
-
-**My Setup:**
-- Phone: [Sumsung Galaxy A05]
-- Settings: Standard graphics, 60 FPS, Dynamic Wide camera
-- Average ping: [28] on WiFi
-
----
-
-### Coming Soon:
-- PUBG Mobile optimization guide
-- Call of Duty Mobile best settings
-- Mobile gaming phone recommendations
-- Best budget controllers for mobile
-
-**Last Updated:** February 12, 2026
+**Last Updated:** February 14, 2026
